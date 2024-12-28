@@ -9,6 +9,6 @@ A dimension of endless old growth spruce taiga biome, with various terrain heigh
 
 ## 3 Commands
 ### 3.1 Teleport to the Hub Dimension
-/execute in alpineworld:hub run tp @s <coords>
+/execute in alpineworld:hub run tp @s (coords)
 ### 3.2 Teleport to the Alpineworld Dimension
-/execute in alpineworld:alpineworld run tp @s <coords>
+/execute in alpineworld:alpineworld run tp @s (coords)
