@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+      "type": "minecraft:noise",
+      "settings": "minecraft:overworld",
+      "biome_source": {
+        "type": "minecraft:multi_noise",
+        "biomes": [
+            {
+                "biome": "minecraft:old_growth_spruce_taiga",
+                "parameters": {
+                    "continentalness": 0,
+                    "depth": 0,
+                    "erosion": 0,
+                    "humidity": 0,
+                    "offset": 0,
+                    "temperature": 0,
+                    "weirdness": 0
+                }
+            }
+        
+        ]
+    }
+    }
+}
